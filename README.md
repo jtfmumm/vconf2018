@@ -16,6 +16,6 @@ Clebsch et al. - [Ownership and Reference Counting based Garbage Collection in t
 
 ## Related Links
 
-[Wallaroo](github.com/wallaroolabs/wallaroo)
+[Wallaroo](github.com/wallaroolabs/wallaroo)  
 [Pony Programming Language](ponylang.org)
 
