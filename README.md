@@ -13,6 +13,8 @@ Marc Shapiro et al. - [A Comprehensive Study of Convergent and Commutative Repli
 Pat Helland - [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?ref=rss&id=3025012)  
 Clebsch et al. - [Ownership and Reference Counting based Garbage Collection in the Actor World](https://www.doc.ic.ac.uk/~scd/icooolps15_GC.pdf)  
 
+## Related Posts
+John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/)  
 
 ## Related Links
 
