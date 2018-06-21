@@ -18,6 +18,6 @@ John Mumm - [Safely Sharing Data: Reference Capabilities in Pony](http://jtfmumm
 
 ## Related Links
 
-[Wallaroo](github.com/wallaroolabs/wallaroo)  
-[Pony Programming Language](ponylang.org)
+[Wallaroo](http://github.com/wallaroolabs/wallaroo)  
+[Pony Programming Language](http://www.ponylang.org)
 
